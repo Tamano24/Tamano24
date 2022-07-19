@@ -11,6 +11,6 @@ Here are some areas important to me:
 - 🤔 I’m looking for help with database and programming
 - 💬 Ask me about Testing
 - 📫 How to reach me: mohmohb0@student.wintec.ac.nz
-- 😄 Check out my Portfolio https://Tamano24.github.io/portfolio/
+- 😄 Check out my Portfolio: https://github.com/Tamano24
 - ⚡ Fun fact: I'm a glutton
 
