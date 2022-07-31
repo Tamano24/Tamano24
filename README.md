@@ -5,7 +5,7 @@
 
 Here are some areas important to me:
 
-- 🔭 I’m currently working on Git and GitHub.
+- 🔭 I’m currently working as a Tester
 - 🌱 I’m currently learning Business, Interpersonal Communications and Technical Writing
 - 👯 I’m looking to collaborate on Zumba App
 - 🤔 I’m looking for help with database and programming
