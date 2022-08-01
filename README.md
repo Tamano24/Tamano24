@@ -11,5 +11,7 @@ Here are some areas important to me:
 - 💬 Ask me about Testing
 - 📫 How to reach me: mohmohb0@student.wintec.ac.nz
 - 😄 Check out my Portfolio: https://github.com/Tamano24
+- :muscle: Team repository: https://github.com/Shayner121/TeamName
+- :sleeping_bed: Agile Board https://teamname.atlassian.net/jira/software/projects/ZUM/boards/1
 
 
