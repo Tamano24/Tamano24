@@ -1,17 +1,16 @@
-### Hi there 👋
-
-
-**Tamano24/Tamano24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there! 👋
 
 Here are some areas important to me:
 
-- 🔭 I’m currently working as a Tester
-- 🌱 I’m currently learning Business, Interpersonal Communications and Technical Writing
-- 👯 I’m looking to collaborate on Zumba App
-- 💬 Ask me about Testing
+- 🔭 I’m currently a Student at Wintec
+- 🌱 I’m currently studying in Bachelor of Applied Technology
+- 👯 I’m looking for an IT job!
+- 💬 Ask me Anything!
 - 📫 How to reach me: mohmohb0@student.wintec.ac.nz
 - 😄 Check out my Portfolio: https://github.com/Tamano24
-- :muscle: Team repository: https://github.com/Shayner121/TeamName
-- :sleeping_bed: Agile Board https://teamname.atlassian.net/jira/software/projects/ZUM/boards/1
+- :muscle: My hobbies are playing games, taking a walk and exploring new skill sets.
+- :gem: My soft skills:
+- :ring: My hard skills:
 
+Hard skills, soft skills
 
